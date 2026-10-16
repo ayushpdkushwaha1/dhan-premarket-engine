@@ -1,0 +1,25 @@
+{
+    "auth": {
+        "client_id": "",
+        "access_token": ""
+    },
+    "path": {
+        "root": "/mnt/IMPORTANT-DATA/dhan_tokken_genarator/files/"
+    },
+    "instrument": {
+        "name": "NIFTY",
+        "spot_security_id": "13",
+        "lot_size": 65,
+        "current_expiry": "2026-10-19",
+        "current_expiry_day": "NIFTY 19 OCT",
+        "target_csv": "2026-10-15_edited_expiry.csv",
+        "target_csv_with_path": "/mnt/IMPORTANT-DATA/dhan_tokken_genarator/files/2026-10-15_edited_expiry.csv"
+    },
+    "market": {
+        "trading_day": "T2"
+    },
+    "metadata": {
+        "generated_date": "2026-10-16",
+        "generated_time": "04:54:56"
+    }
+}
